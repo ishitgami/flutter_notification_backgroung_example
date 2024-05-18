@@ -1,16 +1,13 @@
-# notification_test
+# Flutter Notification Example
 
-A new Flutter project.
+This repository provides a comprehensive example of implementing background notifications in a Flutter application using the Awesome Notifications plugin. The project demonstrates how to set up and customize local and push notifications for both iOS and Android platforms, ensuring notifications work even when the app is running in the background.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
+- Local Notifications: Schedule and display local notifications.
+- Push Notifications: Handle remote notifications.
+- Background Handling: Ensure notifications are received and displayed even when the app is in the background.
+- Customization: Personalize notifications with sounds, icons, images, and actions.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
